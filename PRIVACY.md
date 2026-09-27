@@ -83,4 +83,4 @@ way, the policy will be updated before that version is released.
 
 ## Contact
 
-Questions about this policy: **parasoldev@proton.me**
+Questions about this policy: **parasoldevelop@gmail.com**
